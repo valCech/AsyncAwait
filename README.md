@@ -7,3 +7,5 @@ The first version uses callback functions.
 The second version uses native promise syntax.
 
 The third version uses async...await.
+
+File promiseVsAsync has a simple straightforward comparison example
